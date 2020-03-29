@@ -6,21 +6,21 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
 
-  //c
+  // Plays the note c
   tone(2, 262, 100);
 
-  //pause
+  // pause
   delay(400);
 
-  //d
+  // Plays the note d
   tone(2, 294, 100);
 
-  //pause
+  // pause
   delay(400);
 
-  //c
+  // Plays the note c
   tone(2, 262, 100);
 
-  //pause
+  // pause
   delay(800);
 }
